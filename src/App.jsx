@@ -29,6 +29,7 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
       <div>allow</div>
+      <div>new changes</div>
     </>
   )
 }
