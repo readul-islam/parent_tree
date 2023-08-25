@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        changes from readul sub repository
+        changes from readul islam repository
       </p>
     </>
   )
